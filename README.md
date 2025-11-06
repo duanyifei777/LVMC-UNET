@@ -10,12 +10,21 @@ This paper is implemented by Pytorch.
 # Cite
 @article{LI2025112676,
 title = {A Lightweight Vision Mamba Coding UNet for medical image segmentation},
+
 journal = {Engineering Applications of Artificial Intelligence},
+
 volume = {162},
+
 pages = {112676},
+
 year = {2025},
+
 issn = {0952-1976},
+
 doi = {https://doi.org/10.1016/j.engappai.2025.112676},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0952197625027071},
+
 author = {Yuanyuan Li and Yifei Duan and Guanqiu Qi and Baisen Cong and Li Zhang and Zhiqin Zhu},
+
 }
